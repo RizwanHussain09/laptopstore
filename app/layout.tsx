@@ -10,15 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Bismillah Enterprises - Premium Laptops",
   description: "Discover premium laptops with authentic Islamic craftsmanship and modern technology",
-  generator: "v0.app",
-  icons: {
-    icon: [
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-  },
+
 }
 
 export default function RootLayout({
